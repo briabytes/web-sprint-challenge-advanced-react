@@ -35,7 +35,7 @@ mounting, updating, unmounting
 3. Demonstrate an understanding of class component lifecycle methods.
 
 4. Define stateful logic.
-
+reuasble code
 5. Describe how to test a React component with React Testing Library.
 Create a test file, use the test method to create a test function that 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
