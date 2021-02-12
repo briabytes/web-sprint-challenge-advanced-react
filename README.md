@@ -29,7 +29,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain how to build stateful class components.
-
+import component 
 2. Describe the different phases of the component lifecycle.
 
 3. Demonstrate an understanding of class component lifecycle methods.
@@ -37,7 +37,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 4. Define stateful logic.
 
 5. Describe how to test a React component with React Testing Library.
-
+Create a test file, 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
@@ -84,6 +84,7 @@ Go [here](./CodeGrade-webhook.md) to setup the CodeGrade webhook before you begi
 **Commit and Push OFTEN!**
 
 - [ ] Implement the project on this Branch, **committing progress & changes often.**
+
 - [ ] Push commits: `git push origin master`, or, if working on your own branch: git push origin <firstName-lastName>`.
 
 ### Task 2: Project Requirements
