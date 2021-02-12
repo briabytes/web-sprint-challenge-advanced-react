@@ -37,7 +37,7 @@ mounting, updating, unmounting
 4. Define stateful logic.
 
 5. Describe how to test a React component with React Testing Library.
-
+Create a test file
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
